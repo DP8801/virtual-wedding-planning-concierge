@@ -18,7 +18,8 @@ The **Virtual Wedding Planning Concierge** is an innovative software solution de
 - Offer real-time collaboration capabilities for couples and their families, regardless of geographical location.
 - Improve vendor-client communication, enabling seamless contract reviews, real-time updates, and service customizations.
 - Provide robust budget tracking and management tools to enhance financial transparency and control.
-- Enhance the overall guest experience through personalized digital invitations, RSVP tracking, and comprehensive event details.
+- Enhance the guest experience with personalized digital invitations, RSVP tracking, and comprehensive event details.
+- Leverage AI-powered recommendations to suggest vendors, budget optimizations, and task prioritization based on user preferences and past wedding trends.
 
 ---
 
