@@ -62,5 +62,53 @@ This project proactively manages risks through detailed identification, prioriti
 
 ---
 
-## 📂 Repository Structure
+
+---
+
+## ⚙️ Technology Stack
+
+- **Frontend:** React.js  
+- **Backend:** Node.js (Express.js framework)  
+- **Database:** MongoDB  
+- **Mobile:** Flutter (iOS/Android)  
+- **Deployment:** AWS or Azure Cloud Platform  
+- **Project Management:** GitHub Projects, Jira, Agile methodologies  
+- **Communication Tools:** Twilio (SMS/notifications), OAuth 2.0 (security)
+
+---
+
+## 🛠️ Development Setup
+
+### Prerequisites
+- Node.js (v18+ recommended)
+- npm or yarn
+- MongoDB instance or cloud cluster (Atlas)
+- Flutter SDK (for mobile app)
+
+### Installation
+```bash
+# Clone repository
+git clone https://github.com/yourusername/virtual-wedding-planning-concierge.git
+
+# Install frontend dependencies
+cd frontend
+npm install
+
+# Install backend dependencies
+cd ../backend
+npm install
+
+# Set up environment variables (example included in .env.sample)
+cp .env.sample .env
+```
+
+# Frontend (development mode)
+cd frontend
+npm start
+
+# Backend (development mode)
+cd backend
+npm run dev
+
+
 
