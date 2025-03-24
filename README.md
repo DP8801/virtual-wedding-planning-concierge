@@ -1,6 +1,15 @@
-# virtual-wedding-planning-concierge
+# SOEN 6841 Software Project Management
+**Project:** Virtual Wedding Planning Concierge
 
-# Virtual Wedding Planning Concierge
+**Team Members:**
+- Dev Pandya (40268577)
+- Aarya Parikh (40262787)
+- Tahina Andriantomanga (40313407)
+- Nadine Lisa Mathew (40277349)
+
+---
+
+## Virtual Wedding Planning Concierge
 
 *A comprehensive virtual solution simplifying wedding planning for couples, families, and vendors.*
 
@@ -58,10 +67,7 @@ This project proactively manages risks through detailed identification, prioriti
 - **Budget Overruns:** Detailed budgeting, regular reviews, 15% contingency funds allocated.
 - **Scope Creep:** Clearly defined deliverables, formalized change management process, stakeholder alignment.
 
-(For full details, please refer to the [Risk Assessment & Mitigation Plan](#))
-
----
-
+*(For full details, please refer to the [Risk Assessment & Mitigation Plan](#))*
 
 ---
 
@@ -100,15 +106,3 @@ npm install
 
 # Set up environment variables (example included in .env.sample)
 cp .env.sample .env
-```
-
-# Frontend (development mode)
-cd frontend
-npm start
-
-# Backend (development mode)
-cd backend
-npm run dev
-
-
-
